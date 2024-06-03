@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CoffeeShop</string>
+    <string name="add_product">Added product: </string>
+    <string-array name="image_names">
+        <item>ss_0</item>
+        <item>ss_1</item>
+        <item>ss_2</item>
+        <item>ss_3</item>
+        <item>ss_4</item>
+        <item>ss_5</item>
+        <item>ss_6</item>
+        <item>ss_7</item>
+        <item>ss_8</item>
+        <item>ss_9</item>
+    </string-array>
+</resources>
